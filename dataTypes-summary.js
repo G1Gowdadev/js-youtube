@@ -46,3 +46,9 @@ console.log(typeof bigNumber);
     Functions */
 
 
+    // +++++++++++++++++++++++++++++++++++++++ //
+
+// Stack (Primitve)
+// Heap (Non-Primitive)
+
+let myYoutubeName = 
