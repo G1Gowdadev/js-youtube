@@ -1,6 +1,8 @@
-// switch (key) {
+// // ++++++++++++++++ SWITCH CASE +++++++++++++++++
+
+//switch (key) {
 //     case value:
-                // +++ SWITCH CASE+++
+                
 //         break;
 
 //     default:
