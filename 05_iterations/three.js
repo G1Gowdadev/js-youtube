@@ -27,4 +27,4 @@ map.set('IN', 'INDIA')
 map.set('USA', 'UNITED SATES OF AMERICA')
 map.set('FR', 'FRANCE')
 
-console.log(map);
+// console.log(map);
