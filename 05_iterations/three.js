@@ -28,3 +28,22 @@ map.set('USA', 'UNITED SATES OF AMERICA')
 map.set('FR', 'FRANCE')
 
 // console.log(map);
+
+for (const key of map) {
+    console.log(key);  // Prints the KEY-VALUE pair in an array format.
+}
+
+// for (const [key, value] of map) { 
+//     console.log(key, ':-', value)
+// }
+
+const myObject = { // Objects have a different way to iterate.
+    game1: 'NFS',
+    game2: 'Spiderman'
+}
+
+//NO USE.
+// for(const [key, value] of myObject) {
+//     console.log(key, ':-', value);
+// }
+
