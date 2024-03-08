@@ -9,5 +9,5 @@ accountEmail = "jeevitha@gmail.com"
 accountPassword = "21212121"
 accountCity = "Bengaluru"
 
-console.log(accountId);
+console.log(accountCity);
 console.table([accountId, accountEmail, accountPassword, accountCity]);

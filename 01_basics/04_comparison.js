@@ -10,4 +10,5 @@
 
 // ===
 console.log("2" === 2); // it also checks the dataTypes
+//It strictly checks the value as well as the dataTypes of the character
 
