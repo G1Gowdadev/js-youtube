@@ -26,9 +26,9 @@
 function addone(num) {
     return num + 1
 }
-console.log(addone(5));
+console.log(addone(5))
 //Hoisting\\
-const addTwo = fucntion(num) {
-    return num + 2
+const addTwo = function(num1) {
+    return num1 + 2
 }
-addTwo(5)
+console.log(addTwo(5))
