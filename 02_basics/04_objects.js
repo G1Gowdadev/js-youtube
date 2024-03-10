@@ -24,19 +24,19 @@ const obj2 = {3: "a", 2: "b"}
 
 // const obj3 = { obj1, obj2 }
 // const obj3 = Object.assign(obj1, obj2)
-// const obj3 - Object.assign({}, obj1, obj2, obj4) // This shows that obj1, 2, 4 will get concatinated into obj3
+// const obj3 = Object.assign({}, obj1, obj2, obj4) // This shows that obj1, 2, 4 will get concatinated into obj3
 
 // const obj3 = {...obj1, ...obj2} // The best way to join is by using the {Spread} 
 // console.log(obj3);
 
-// const users = [
-//     {
-//         id: 1,
-//         email: "h@gamil.com",
-//     }
-// ]
+const users = [
+    {
+        id: 1,
+        email: "h@gamil.com",
+    }
+]
 
-// users[1].email
+// users[1].email;
 // console.log(tinderUser); 
 
 // console.log(Object.keys(tinderUser)); // To get the keys of the tinder users
