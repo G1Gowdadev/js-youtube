@@ -29,6 +29,11 @@ console.log(myArr[1]);
 // console.log(newArr);
 
                         /* slice, splice*/
+                        
+// slice returns a piece of the array but it doesn't affect the original array. 
+
+// splice changes the original array by removing, replacing, or adding values 
+// and returns the affected values.                        
 
 console.log("A ", myArr);
 
@@ -39,3 +44,4 @@ console.log("B ", myArr) // includes all the elements too and from
 
 const myn2 = myArr.splice(1, 3)
 console.log(myn2);
+
