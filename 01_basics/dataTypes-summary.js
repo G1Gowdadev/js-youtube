@@ -12,7 +12,7 @@
 
 */
 
-Dynamically Typed Language
+// Dynamically Typed Language
  const score = 100
  const scoreValue = 100.3
 
@@ -28,7 +28,7 @@ console.log(id  = anotherId)
 const bigNumber = 2342343432423423423234324n
 
 const heros = ["shaktiman", "naagraj", "doga"]
-let myObj{
+let myObj = {
     name: "hitesh",
     age: 22,
 }
@@ -51,4 +51,3 @@ console.log(typeof bigNumber);
 // Stack (Primitve)
 // Heap (Non-Primitive)
 
-let myYoutubeName = 
