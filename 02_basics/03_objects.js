@@ -20,7 +20,7 @@ const jsUser = {  // It can be accessed using the dot or the [].
 }
 
 // console.log(jsUser.email);
-// console.log(jsUser["email"]);
+// console.log(jsUser["email"]); //accessing it using the [] method
 // console.log(jsUser["full name"]);
 // console.log(jsUser.mySym);
 
@@ -29,6 +29,7 @@ jsUser.email = "jeevan@chatgpt.com"
 jsUser.email = "jeevangowda"
 // console.log(jsUser);
 
+// FUNCTION DEFINITION...
 jsUser.greeting = function(){
     console.log("Hello JS User");
 }
@@ -36,5 +37,6 @@ jsUser.greeitngTwo = function(){
     console.log(`Hello JS User, ${this.name}`);
 }
 
+//FUNCTION CALLING...
 console.log(jsUser.greeting());
 console.log(jsUser.greeitngTwo());
