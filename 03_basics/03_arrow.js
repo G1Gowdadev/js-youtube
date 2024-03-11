@@ -19,20 +19,21 @@ const  user = {
 //     let username = "Jeevan"
 //     console.log(this.username);
 // }
-// Chai()  /*cannot use this inside a fucntion "for now" */
+// Chai()  /*cannot use `this` inside a fucntion "for now" */
 
 // const chai = function (){
 //     let username = " jeevan"
 //     console.log(this.username);
 // }
 
-const chai =  () => {
-    let username = " jeevan"
-    console.log(this);
-}
+// const chai =  () => {
+//     let username = " jeevan"
+//     console.log(this);
+// }
 
-chai()
+// chai()
 
+//---------------------------------------------------------------------
 //ARROW FUNCTION    
 // const addTwo = (num1, num2) => {
 //     return num1 + num2
