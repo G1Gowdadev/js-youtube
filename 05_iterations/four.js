@@ -25,4 +25,5 @@ const programming = ["js", "rb", "py", "java", "cpp"]
 for (const key in programming) {
     console.log(programming[key]);
 }
-
+//Here if you only enter the key you will 
+// get the index of the array.
